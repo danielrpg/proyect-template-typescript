@@ -20,3 +20,5 @@
 
 `yarn add -D styled-components @types/styled-components // install styled components dependencies`
 
+`yarn add -D react-router-dom @types/react-router-dom // add react router`
+
