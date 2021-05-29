@@ -22,3 +22,8 @@
 
 `yarn add -D react-router-dom @types/react-router-dom // add react router`
 
+`yarn add -D enzyme enzyme-adapter-react-16 react-test-renderer  //add emzyme`
+
+`yarn add -D enzyme-to-json //enzyme and json support`
+
+`$ yarn add sinon @types/sinon // Add sinon`
