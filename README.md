@@ -18,4 +18,5 @@
 
 `$ yarn add -D @material-ui/core @material-ui/icons //add material UI and icons`
 
+`yarn add -D styled-components @types/styled-components // install styled components dependencies`
 
